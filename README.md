@@ -1,5 +1,12 @@
+## Hi! <img src="">
+
+#### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+#### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverminddev&show_icons=true&theme=radical)
+
 
 <!--
 **NeverMindDev/neverminddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

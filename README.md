@@ -23,8 +23,10 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 &nbsp;
 <h1> 
 <p><strong>💻&nbsp;Code Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 </p><p><strong>
 🧰 &nbsp;My toolbox
 
@@ -44,18 +46,17 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 ✨&nbsp;GitHub Awards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<center>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neverminddev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-</center>
-</p>
-</h1>
 
-<details>
-<summary>
-    More information:
-</summary>
-<br>
-coming soon...
-</br>
+</p></h1>
+  <details>
+    <summary>
+      More information:
+    </summary>
+  <br>
+    <small> coming soon...
+  </br>
+</h1></p>

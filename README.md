@@ -6,6 +6,7 @@
 </h1>
 
 I'm a beginner software developer based in Kazakhstan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like design, coding and musician. Slightly obsessed with Home Automation and Home Labs. You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
+I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 </h1>
 
 &nbsp;
@@ -29,20 +30,25 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 
 🧰 &nbsp;My toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="70"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="70"/> &nbsp;
 </p><p><strong>
 🔥&nbsp;GitHub Stats
 
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="40" height="250" width="220">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=discord.RichPresence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/neverminddev/discord.RichPresence)
+
 </p><p><stong>
+
 ✨&nbsp;GitHub Awards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)

@@ -1,43 +1,31 @@
+<p align="center">
+  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="readme banner"></a>
+</p>
+<h1 align="center">
+  <strong>👋 Hi there!
+</h1>
+
+I'm a beginner software developer based in Kazakhstan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like design, coding and musician. Slightly obsessed with Home Automation and Home Labs. You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
+</h1>
+
+&nbsp;
+
+<h1>
+    <div align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)" />
+    </a>    
+<p align="center">
+  <strong><a href="https://vk.com/devildesigner">VK</a></strong> |
+  <strong><a href="https://discord.gg/m4rCgqV5A2">Discord</a></strong>
+</p>
+</h1>
+
+&nbsp;
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" hspace="100" weight="120">
+<h1> 
+<p><strong>💻&nbsp;Code Stats
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2028%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 30 Contributions in the Year 2022
- > 
-> 📦 212.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-🌆 Daytime    15 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-🌃 Evening    15 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-🌙 Night      18 commits     ████████░░░░░░░░░░░░░░░░░   31.58%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       11 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
-Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-Wednesday    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Thursday     26 commits     ███████████░░░░░░░░░░░░░░   45.61% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Sunday       7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -56,16 +44,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Roff                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
-
-```
-
 
 **Timeline**
 

@@ -10,20 +10,15 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 <h2>
 
 <!--HEADDERS-->
-<body>
-    <center>
-<h3 align="center">
 <br>
     <div align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)" />
     </a>
-      
+ </br>     
 <p align="center">
   <strong><a href="https://vk.com/devildesigner">VK</a></strong> |
   <strong><a href="https://discord.gg/m4rCgqV5A2">Discord</a></strong>
 </p>
-
-</body>
 <!---->
 
 <p align="left"> 

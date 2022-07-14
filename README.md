@@ -21,7 +21,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 </h1>
 
 &nbsp;
-<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="0" weight="30">
+<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="0" height="200">
 <h1> 
 <p><strong>💻&nbsp;Code Stats
 

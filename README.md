@@ -36,7 +36,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 🔥&nbsp;GitHub Stats
 
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="40" height="250" width="220">
+<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="40" height="300" width="250">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <p><strong>💻&nbsp;Code Stats
@@ -45,16 +45,13 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
 
 </p>
-</h>
-
-</p><p><stong>
-
-✨&nbsp;GitHub Awards
+<p><strong>✨&nbsp;GitHub Awards 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neverminddev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+</p>
 
 </p></h1>
   <details>

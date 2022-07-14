@@ -63,7 +63,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
   <br>
     <small>
       <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 This Week I Spent My Time On:
 
 ```text
 ⌚︎ Time Zone: Asia/Almaty

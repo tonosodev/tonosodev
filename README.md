@@ -55,6 +55,23 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/neverminddev/open-source-badge/)
 </p>
 
+<<<<<<< HEAD
+=======
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Almaty
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+<!--END_SECTION:waka-->
+
+>>>>>>> e4c4c4147c8cbd876c7f8fd4af59d69a28e66c5e
 </p></h1>
   <details>
     <summary>

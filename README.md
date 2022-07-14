@@ -18,18 +18,12 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 <p align="center">
   <strong><a href="https://vk.com/devildesigner">VK</a></strong> |
   <strong><a href="https://discord.gg/m4rCgqV5A2">Discord</a></strong>
-</p>
+</p><strong>
 </h1>
 
 &nbsp;
 <h1> 
-<p><strong>💻&nbsp;Code Stats
-
-
-</p><p><strong>
-
-🧰 &nbsp;My toolbox
-
+<p><strong>🧰 &nbsp;My toolbox
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="70"/> &nbsp;
@@ -44,8 +38,13 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 <img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="40" height="250" width="220">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<p><strong>💻&nbsp;Code Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=discord.RichPresence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/neverminddev/discord.RichPresence)
+
+</p>
+</h>
 
 </p><p><stong>
 

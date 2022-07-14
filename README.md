@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="readme banner"></a>
+  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/headder.gif" alt="readme banner"></a>
 </p>
 <h1 align="center">
   <strong>👋 Hi there!

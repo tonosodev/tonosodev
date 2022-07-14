@@ -21,7 +21,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 </h1>
 
 &nbsp;
-<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="0" height="200">
+<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="20" height="250" width="220">
 <h1> 
 <p><strong>💻&nbsp;Code Stats
 
@@ -32,6 +32,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/> &nbsp;

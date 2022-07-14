@@ -37,7 +37,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 <p><strong>🔥&nbsp;GitHub Stats
 
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-<img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="250" />
+<img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="260" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=radical&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </p>
 
@@ -63,22 +63,6 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
   <br>
     <small>
       <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Almaty
-
-🔥 Editors: 
-VS Code                  6 hrs 54 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      5 hrs 28 mins       ███████████████████░░░░░░   79.07% 
-Windows                  1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93%
-
-```
-
-
- Last Updated on 14/07/2022 18:37:38 UTC
-<!--END_SECTION:waka-->
+      <!--END_SECTION:waka-->
   </br>
 </h1></p>

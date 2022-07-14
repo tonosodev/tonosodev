@@ -35,9 +35,9 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 </p><p><strong>
 🔥&nbsp;GitHub Stats
 
-<img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="250" />
-
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+  <img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="250" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <p><strong>💻&nbsp;Code Stats

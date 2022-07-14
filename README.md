@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="readme banner"></a>
 </p>
@@ -29,6 +32,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 <!--END_SECTION:waka-->
 
 </p><p><strong>
+
 🧰 &nbsp;My toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> &nbsp;
@@ -40,14 +44,12 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 </p><p><strong>
 🔥&nbsp;GitHub Stats
 
-
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </p><p><stong>
 ✨&nbsp;GitHub Awards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neverminddev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)

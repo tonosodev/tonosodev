@@ -17,7 +17,6 @@ jobs:
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "False"
-          SHOW_PROJECTS: "False"
           LOCALE: "False"
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "False"

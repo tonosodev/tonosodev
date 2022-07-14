@@ -56,6 +56,17 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 </p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Almaty
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 </p></h1>

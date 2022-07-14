@@ -55,6 +55,9 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/neverminddev/open-source-badge/)
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </p></h1>
   <details>
     <summary>

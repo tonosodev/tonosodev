@@ -41,7 +41,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 
 
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" hspace="50">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </p><p><stong>
 ✨&nbsp;GitHub Awards

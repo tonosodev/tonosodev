@@ -21,37 +21,10 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 </h1>
 
 &nbsp;
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" hspace="100" weight="120">
+<img src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" align="right" hspace="100" weight="120">
 <h1> 
 <p><strong>💻&nbsp;Code Stats
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Almaty
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/NeverMindDev/NeverMindDev/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/07/2022 12:52:02 UTC
-<!--END_SECTION:waka-->
 
 </p><p><strong>
 

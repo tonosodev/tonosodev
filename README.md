@@ -5,7 +5,7 @@
   <strong>👋 Hi there!
 </h1>
 
-I'm a beginner software developer based in Kazakhstan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like design, coding and musician. Slightly obsessed with Home Automation and Home Labs. You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
+I'm a beginner software developer based in Kazakhstan.  You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
 I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 </h1>
 
@@ -32,20 +32,21 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="70"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="70"/> &nbsp;
-</p><p><strong>
-🔥&nbsp;GitHub Stats
+</p>
+
+<p><strong>🔥&nbsp;GitHub Stats
 
 ![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-<img align="right" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="250">
-
+<img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="250" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+</p>
+
 <p><strong>💻&nbsp;Code Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=discord.RichPresence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/neverminddev/discord.RichPresence)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
-
 </p>
+
 <p><strong>✨&nbsp;GitHub Awards 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)

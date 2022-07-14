@@ -1,24 +1,38 @@
-## Hi! <img src="">
+<p align="center">
+  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="nevermind banner"></a>
+</p>
+ 
+## Hi!
+Coming soon...
 
-#### Coding Stats
+<p align="center"> 
+    <strong>Code Stats
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverminddev&show_icons=true&theme=radical)
+<p align="center"> 
+    <strong>GitHub Stats
+</p>
+
+<p align="center">
+  <a href="https://github.com/neverminddev"><img src="https://github-readme-stats.vercel.app/api?username=neverminddev&show_icons=true&theme=radical" alt="edisonlee55's github stats"></a>
+</p>
 
 
-<!--
-**NeverMindDev/neverminddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong><a href="https://twitter.com/edisonlee55">VK</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
+  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+</p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+    More information:
+</summary>
+<br>
+text block
+</br>

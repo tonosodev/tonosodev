@@ -63,7 +63,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
   <br>
     <small>
       <!--START_SECTION:waka-->
-📊 Working on this week:
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Almaty
@@ -78,7 +78,7 @@ Windows                  1 hr 26 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 14/07/2022 18:45:06 UTC
+ Last Updated on 14/07/2022 18:48:55 UTC
 <!--END_SECTION:waka-->
   </br>
 </h1></p>

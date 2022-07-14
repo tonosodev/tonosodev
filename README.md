@@ -4,7 +4,6 @@
 <h1 align="center">
   <strong>👋 Hi there!
 </h1>
-<h1 align="left"> <small>
 
 I'm a beginner software developer based in Kazakhstan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like design, coding and musician. Slightly obsessed with Home Automation and Home Labs. You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
 </h1>
@@ -49,6 +48,7 @@ I'm a beginner software developer based in Kazakhstan. I enjoy coding open-sourc
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neverminddev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+</center>
 </p>
 </h1>
 

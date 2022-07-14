@@ -1,13 +1,12 @@
 <p align="center">
-  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="nevermind banner"></a>
+  <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/github.png" alt="readme banner"></a>
 </p>
  
 <h1 align="center">
   <strong>👋 Hi there!
 </h1>
-
 <h2 align="left">
-
+I'm a beginner software developer based in Kazakhstan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like design, coding and musician. Slightly obsessed with Home Automation and Home Labs. You can find me on Discord [@NeverMind](https://discord.gg/m4rCgqV5A2).
 <h2>
 
 <!--HEADDERS-->

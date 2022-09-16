@@ -63,8 +63,21 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
   <br>
     <small>
       <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/09/2022 02:56:45 UTC
+```text
+⌚︎ Time Zone: Asia/Almaty
+
+🔥 Editors: 
+VS Code                  15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+
+💻 Operating System: 
+Mac                      15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+
+```
+
+
+ Last Updated on 16/09/2022 02:55:16 UTC
 <!--END_SECTION:waka-->
   </br>
 </h1></p>

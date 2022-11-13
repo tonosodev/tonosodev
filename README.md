@@ -43,7 +43,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 
 <p><strong>💻&nbsp;Code Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=discord.RichPresence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/neverminddev/discord.RichPresence)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=macos_presence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/NeverMindDev/macos_presence)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
 </p>
 

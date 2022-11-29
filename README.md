@@ -69,15 +69,15 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 ⌚︎ Time Zone: Asia/Almaty
 
 🔥 Editors: 
-PyCharm                  15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 28/11/2022 01:54:44 UTC
+ Last Updated on 29/11/2022 01:53:18 UTC
 <!--END_SECTION:waka-->
   </br>
 </h1></p>

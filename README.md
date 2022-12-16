@@ -69,15 +69,15 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 ⌚︎ Time Zone: Asia/Almaty
 
 🔥 Editors: 
-VS Code                  6 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/12/2022 01:51:00 UTC
+ Last Updated on 16/12/2022 01:40:13 UTC
 <!--END_SECTION:waka-->
   </br>
 </h1></p>

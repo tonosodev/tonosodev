@@ -36,23 +36,23 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 
 <p><strong>🔥&nbsp;GitHub Stats
 
-![nevermind Github Stats](https://github-readme-stats.vercel.app/api?username=neverminddev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![tonosodev Github Stats](https://github-readme-stats.vercel.app/api?username=tonosodev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <img align="right" alt="GIF" src="https://tenor.com/view/sewayaki-no-kitsune-senko-san-shiro-white-fox-tail-wag-tail-gif-16938478.gif" hspace="40" height="315" width="235" />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neverminddev&theme=radical&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonosodev&theme=radical&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </p>
 
 <p><strong>💻&nbsp;Code Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neverminddev&repo=macos_presence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/NeverMindDev/macos_presence)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverminddev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/neverminddev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonosodev&repo=macos_presence&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/tonosodev/macos_presence)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonosodev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&layout=compact)](https://github.com/tonosodev/github-readme-stats)
 </p>
 
 <p><strong>✨&nbsp;GitHub Awards 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neverminddev&theme=radical&column=7)](https://github.com/neverminddev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tonosodev&theme=radical&column=7)](https://github.com/tonosodev/github-profile-trophy)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=neverminddev)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/neverminddev/open-source-badge/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonosodev)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/tonosodev/open-source-badge/)
 </p>
 
 </p></h1>

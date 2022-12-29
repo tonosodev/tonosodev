@@ -14,12 +14,11 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 <h1>
     <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=0&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Coffee%20time%20%☕)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=0&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Coffee%20time!)](https://discord.com/users/94490510688792576)
 
 <p align="center">
-  <strong><a href="https://vk.com/devildesigner">VK</a></strong> |
-  <strong><a href="https://discord.gg/m4rCgqV5A2">Discord</a></strong>
-</p><strong>
+[![VK](https://img.shields.io/static/v1?label=Backend&message=com&color=blueviolet)](https://vk.com/devildesigner)
+[![DISCORD](https://img.shields.io/static/v1?label=Backend&message=Server&color=blueviolet)](https://vk.com/devildesigner)
 </h1>
 
 &nbsp;

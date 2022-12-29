@@ -16,8 +16,8 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=0&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Coffee%20time!)](https://discord.com/users/94490510688792576)
 
-[![VK](https://img.shields.io/static/v1?label=Backend&message=com&color=blueviolet)](https://vk.com/devildesigner)
-[![DISCORD](https://img.shields.io/static/v1?label=Backend&message=Server&color=blueviolet)](https://vk.com/devildesigner)
+[![VK.COM](https://img.shields.io/static/v1?label=Backend&message=TONOSO&color=purple)](https://vk.com/tonoso)
+[![DISCORD SERVER](https://img.shields.io/static/v1?label=Backend&message=AURORA&color=blueviolet)](https://discord.gg/m4rCgqV5A2)
       
 </h1>
 

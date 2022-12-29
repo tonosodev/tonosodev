@@ -11,7 +11,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 
 &nbsp;
 <h1 align="center">
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?  hideDiscrim=true&bg=0&theme=dark&animated=true&borderRadius=30px&hideStatus=false&idleMessage=Coffee%20time!%20%E2%98%95)]  (https://discord.com/users/641398600727003197)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?  hideDiscrim=true&bg=0&theme=dark&animated=true&borderRadius=30px&hideStatus=false&idleMessage=Coffee%20time!%20%E2%98%95)]  (https://discord.com/users/641398600727003197)
 </h1>
 
 <p align="center">

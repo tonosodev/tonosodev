@@ -15,8 +15,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
     <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=0&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Coffee%20time%20%☕)](https://discord.com/users/94490510688792576)
-<h1/>
-      
+
 <p align="center">
   <strong><a href="https://vk.com/devildesigner">VK</a></strong> |
   <strong><a href="https://discord.gg/m4rCgqV5A2">Discord</a></strong>

@@ -13,7 +13,7 @@ I'm also an open-source enthusiast and maintainer. i learned a lot from the open
 
 <h1>
     <div align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=701ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Coffee%20time...%20%E2%98%95(https://discord.com/users/94490510688792576)"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/641398600727003197?theme=dark&bg=809ec&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)"/>
       </a>    
 <p align="center">
   <strong><a href="https://vk.com/tonoso">VK</a></strong> |

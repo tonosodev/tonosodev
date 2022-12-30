@@ -4,9 +4,7 @@
 <h1 align="center">
   <strong>👋 Hi there!
 </h1>
-
-I'm a beginner software developer based in Kazakhstan.  You can find me on [Discord](https://discord.gg/m4rCgqV5A2).
-I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+New year profile update comming soon...
 </h1>
 
 &nbsp;

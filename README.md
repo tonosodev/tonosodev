@@ -67,15 +67,15 @@ New year profile update comming soon...
 ⌚︎ Time Zone: Asia/Almaty
 
 🔥 Editors: 
-PyCharmCore              14 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/02/2023 01:51:26 UTC
+ Last Updated on 22/02/2023 01:48:09 UTC
 <!--END_SECTION:waka-->
   </br>
 </h1></p>

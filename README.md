@@ -2,7 +2,7 @@
   <a href="https://vk.com/devildesigner"><img src="./img/../.github/img/headder.gif" alt="readme banner"></a>
 </p>
 <h1 align="center">
-  <strong>👋 Hi there!
+  <strong>🧭 Glad to see you in my profile!
 </h1>
 New year profile update comming soon...
 </h1>

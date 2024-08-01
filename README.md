@@ -4,7 +4,7 @@
 <h1 align="center">
   <strong>🧭Glad to see you in my profile!
 </h1>
-New year profile update comming soon...
+✨ яєαℓιту тυяηѕ ιηтσ α ∂яєαм
 </h1>
 
 &nbsp;
